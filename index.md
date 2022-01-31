@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## How to Use VBA to Translate Excel to Markdown
 
 You can use the [editor on GitHub](https://github.com/cshankle/vba/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
