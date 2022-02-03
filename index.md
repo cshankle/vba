@@ -35,5 +35,5 @@ Here is this VBA macro in action:
 | 4/21/2021  | 25            |                                                           |                                                                                                                                   |
 | 4/26/2021  | 26            |                                                           |                                                                                                                                   |
 | 4/28/2021  | 27            |                                                           |                                                                                                                                   |
-
+**here is my [code](https://github.com/cshankle/vba/blob/gh-pages/translate%20to%20markdown.bas) that I used in my example**
 
